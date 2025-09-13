@@ -104,45 +104,45 @@ selectedProduct: Product | null = null;
       onSale: true
     },
     {
-      id: 12,
-      name: 'Girls Blazer & Jeans',
-      imageUrl: 'Boyswear/twe.png',
+      id: 13,
+      name: 'Blush Blossom Kurta',
+      imageUrl: 'GirlWear/ei.png',
       price: 500.00,
       onSale: true
     },
     {
-      id: 12,
-      name: 'Girls Blazer & Jeans',
-      imageUrl: 'Boyswear/twe.png',
-      price: 500.00,
+      id: 14,
+      name: 'Emerald Grace Kurta',
+      imageUrl: 'GirlWear/sev.png',
+      price: 1500.00,
       onSale: true
     },
     {
-      id: 12,
-      name: 'Girls Blazer & Jeans',
-      imageUrl: 'Boyswear/twe.png',
-      price: 500.00,
+      id: 15,
+      name: 'Maroon Majesty',
+      imageUrl: 'Girlwear/si.png',
+      price: 700.00,
       onSale: true
     },
     {
-      id: 12,
-      name: 'Girls Blazer & Jeans',
-      imageUrl: 'Boyswear/twe.png',
-      price: 500.00,
+      id: 16,
+      name: 'Maroon Majesty',
+      imageUrl: 'Girlwear/fi.png',
+      price: 400.00,
       onSale: true
     },
     {
-      id: 12,
+      id: 17,
       name: 'Girls Blazer & Jeans',
-      imageUrl: 'Boyswear/twe.png',
-      price: 500.00,
+      imageUrl: 'Girlwear/fo.png',
+      price: 290.00,
       onSale: true
     },
     {
-      id: 12,
+      id: 18,
       name: 'Girls Blazer & Jeans',
-      imageUrl: 'Boyswear/twe.png',
-      price: 500.00,
+      imageUrl: '  Girlwear/tha.png',
+      price: 340.00,
       onSale: true
     }
   ];
