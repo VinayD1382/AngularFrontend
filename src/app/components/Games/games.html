@@ -1,0 +1,19 @@
+<div class="container">
+<!--<h2 class="section-title">Boys Wear</h2>-->
+  <div class="product-grid">
+    <div class="product-card" *ngFor="let product of games">
+     <!-- <div class="sale-badge" *ngIf="product.onSale">SALE</div>-->
+      <img [src]="product.imageUrl" [alt]="product.name" />
+      <h3>{{ product.name }}</h3>
+      <p class="price">
+        <span>Rs. {{ product.onSale ? product.price : product.price }}</span>
+      </p>
+<div class="d-flex action-buttons">
+  <button class="btn buy-now">Play Now</button>
+</div>
+
+    </div>
+  </div>
+    <app-brand-footer></app-brand-footer>
+
+</div>
