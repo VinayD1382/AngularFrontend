@@ -102,6 +102,48 @@ selectedProduct: Product | null = null;
       imageUrl: 'Boyswear/twe.png',
       price: 500.00,
       onSale: true
+    },
+    {
+      id: 12,
+      name: 'Girls Blazer & Jeans',
+      imageUrl: 'Boyswear/twe.png',
+      price: 500.00,
+      onSale: true
+    },
+    {
+      id: 12,
+      name: 'Girls Blazer & Jeans',
+      imageUrl: 'Boyswear/twe.png',
+      price: 500.00,
+      onSale: true
+    },
+    {
+      id: 12,
+      name: 'Girls Blazer & Jeans',
+      imageUrl: 'Boyswear/twe.png',
+      price: 500.00,
+      onSale: true
+    },
+    {
+      id: 12,
+      name: 'Girls Blazer & Jeans',
+      imageUrl: 'Boyswear/twe.png',
+      price: 500.00,
+      onSale: true
+    },
+    {
+      id: 12,
+      name: 'Girls Blazer & Jeans',
+      imageUrl: 'Boyswear/twe.png',
+      price: 500.00,
+      onSale: true
+    },
+    {
+      id: 12,
+      name: 'Girls Blazer & Jeans',
+      imageUrl: 'Boyswear/twe.png',
+      price: 500.00,
+      onSale: true
     }
   ];
 }
