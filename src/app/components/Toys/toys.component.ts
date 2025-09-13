@@ -103,6 +103,48 @@ export class ToysComponent implements OnInit {
       imageUrl: 'Toys/twe.png',
       price: 2200,
       onSale: true
+    },
+    {
+      id: 13,
+      name: 'Bubble Blaster',
+      imageUrl: 'Toys/o1.png',
+      price: 580,
+      onSale: true
+    },
+    {
+      id: 14,
+      name: 'Rainbow Pop-It',
+      imageUrl: 'Toys/t2.png',
+      price: 550,
+      onSale: true
+    },
+    {
+      id: 15,
+      name: 'Dreamy Sparkle',
+      imageUrl: 'Toys/t3.png',
+      price: 520,
+      onSale: true
+    },
+    {
+      id: 16,
+      name: 'Twin Fantasy',
+      imageUrl: 'Toys/f4.png',
+      price: 530,
+      onSale: true
+    },
+    {
+      id: 17,
+      name: 'SkyZoom Ride-On',
+      imageUrl: 'Toys/f5.png',
+      price: 540,
+      onSale: true
+    },
+    {
+      id: 18,
+      name: 'Little Genius',
+      imageUrl: 'Toys/s6.png',
+      price: 550,
+      onSale: true
     }
   ];
   }
