@@ -16,6 +16,7 @@ export class Sale implements OnInit {
 selectedProduct: Product | null = null;
   showImageOnly = false;
   quantity = 1;
+
   isModalOpen = false;
  ngOnInit(): void {
   this.sale = [
