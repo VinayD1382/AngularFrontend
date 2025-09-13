@@ -121,6 +121,54 @@ selectedProduct: Product | null = null;
       oldPrice: 1299,
       onSale: true
     },
+     {
+      id: 13,
+      name: 'Boys Denim Shades',
+      imageUrl: 'Boyswear/o1.png',
+      price: 899,
+      oldPrice: 1299,
+      onSale: true
+    },
+     {
+      id: 14,
+      name: 'Snowdrop Classic',
+      imageUrl: 'Boyswear/t2.png',
+      price: 929,
+      oldPrice: 1299,
+      onSale: true
+    },
+     {
+      id: 15,
+      name: 'Saffron Spark',
+      imageUrl: 'Boyswear/t3.png',
+      price: 789,
+      oldPrice: 1299,
+      onSale: true
+    },
+     {
+      id: 16,
+      name: 'Sky Breezes',
+      imageUrl: 'Boyswear/f4.png',
+      price: 399,
+      oldPrice: 1299,
+      onSale: true
+    },
+     {
+      id: 17,
+      name: 'Sandstone Serenity',
+      imageUrl: 'Boyswear/fi5.png',
+      price: 969,
+      oldPrice: 1299,
+      onSale: true
+    },
+     {
+      id: 18,
+      name: 'Sandstone Serenity',
+      imageUrl: 'Boyswear/s6.png',
+      price: 4556,
+      oldPrice: 1299,
+      onSale: true
+    },
   ];
 }
 
